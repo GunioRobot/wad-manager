@@ -13,7 +13,7 @@ void Sound_Init(void)
 {
 	/* Init ASND */
 	ASND_Init();
-} 
+}
 
 s32 Sound_Play(void)
 {

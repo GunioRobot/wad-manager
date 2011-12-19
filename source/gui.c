@@ -59,4 +59,4 @@ void Gui_DrawBackground(void)
 
 	/* Draw background */
 	__Gui_DrawPng(bgData, 0, 0);
-} 
+}

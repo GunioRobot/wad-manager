@@ -3,7 +3,7 @@
 usbstorage_starlet.c -- USB mass storage support, inside starlet
 Copyright (C) 2009 Kwiirk
 
-If this driver is linked before libogc, this will replace the original 
+If this driver is linked before libogc, this will replace the original
 usbstorage driver by svpe from libogc
 This software is provided 'as-is', without any express or implied
 warranty.  In no event will the authors be held liable for any

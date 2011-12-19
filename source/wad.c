@@ -110,7 +110,7 @@ void __Wad_FixTicket(signed_blob *p_tik)
 	if (*ckey > 1) {
 		/* Set common key */
 		*ckey = 0;
-		
+
 		/* Fakesign ticket */
 		Title_FakesignTik(p_tik);
 	}

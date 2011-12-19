@@ -62,7 +62,7 @@ s32 Nand_Enable(nandDevice *dev)
 	IOS_Close(fd);
 
 	return ret;
-} 
+}
 
 s32 Nand_Disable(void)
 {
@@ -83,4 +83,4 @@ s32 Nand_Disable(void)
 	IOS_Close(fd);
 
 	return ret;
-} 
+}

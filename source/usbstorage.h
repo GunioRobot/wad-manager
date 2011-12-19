@@ -1,5 +1,5 @@
 #ifndef _USBSTORAGE_H_
-#define _USBSTORAGE_H_ 
+#define _USBSTORAGE_H_
 
 /* Prototypes */
 s32  USBStorage_GetCapacity(u32 *);

@@ -12,7 +12,7 @@ typedef struct {
 	/* Un/mount command */
 	u32 mountCmd;
 	u32 umountCmd;
-} nandDevice; 
+} nandDevice;
 
 
 /* Prototypes */
